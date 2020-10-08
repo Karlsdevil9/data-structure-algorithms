@@ -6,4 +6,4 @@ const sparseArray = (strings, queries) => {
     return finalArray
 }
 
-console.log(sparseArray(['ab', 'ab', 'abc'], ['ab', 'abc', 'bc']))
+console.log(sparseArray(['ab', 'ab', 'abc'], ['ab', 'abc', 'bc'])) // [2, 1, 0]

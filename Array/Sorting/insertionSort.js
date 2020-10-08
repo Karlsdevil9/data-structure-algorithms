@@ -11,4 +11,4 @@ const insertionSort = (arr, n) => {
     return arr
 }
 
-console.log(insertionSort([2, 6, 4, 1, 5], 5))
+console.log(insertionSort([2, 6, 4, 1, 5], 5)) // [1, 2, 4, 5, 6]

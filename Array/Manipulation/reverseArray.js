@@ -4,4 +4,4 @@ const reverseArray = arr => {
     return finalArray
 }
 
-console.log(reverseArray([2, 6, 4, 1]))
+console.log(reverseArray([2, 6, 4, 1])) // [1, 4, 6, 2]
