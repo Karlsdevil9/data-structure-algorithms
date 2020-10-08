@@ -9,3 +9,4 @@ This is a library containing all types of ds algorithms in JavaScript.
 ## Sorting
 
 + [Insertion Sort](https://github.com/vipuljain08/data-structure-algorithms/blob/master/Array/Sorting/insertionSort.js)
++ [Bubble Sort](https://github.com/vipuljain08/data-structure-algorithms/blob/master/Array/Sorting/bubbleSort.js)
